@@ -1,0 +1,1 @@
+# Home Credit LAP Voice Agent\n\nRun tests: `pytest tests/`\n
